@@ -1,0 +1,24 @@
+
+> trading-growth-assistant@1.0.0 start
+> next start
+
+   ▲ Next.js 15.5.9
+   - Local:        http://localhost:3000
+   - Network:      http://169.254.0.21:3000
+
+ ✓ Starting...
+ ✓ Ready in 543ms
+ ⨯ Error: ENOENT: no such file or directory, open '/home/user/trading-growth-assistant/.next/required-server-files.json'
+    at async L (.next/server/app/page.js:15:18513) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/user/trading-growth-assistant/.next/required-server-files.json'
+}
+ ⨯ Error: ENOENT: no such file or directory, open '/home/user/trading-growth-assistant/.next/required-server-files.json'
+    at async (.next/server/pages/_error.js:8:14071) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/user/trading-growth-assistant/.next/required-server-files.json'
+}
